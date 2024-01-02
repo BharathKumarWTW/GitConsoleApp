@@ -11,6 +11,11 @@ namespace GitConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!!  ****  extra code");
+
+            var a = 10;
+            var b = 20;
+            var c = a + b;
+            Console.WriteLine("Final value: " + c);
             Console.ReadLine();
         }
     }
