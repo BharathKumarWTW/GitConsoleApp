@@ -19,6 +19,8 @@ namespace GitConsoleApp
 
             Console.WriteLine("Added comments");
 
+            //Added additional comments
+
             Console.ReadLine();
         }
     }
