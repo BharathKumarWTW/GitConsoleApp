@@ -20,6 +20,7 @@ namespace GitConsoleApp
             Console.WriteLine("Added comments");
 
             //Added additional comments
+            // I think we need more comments
 
             Console.ReadLine();
         }
