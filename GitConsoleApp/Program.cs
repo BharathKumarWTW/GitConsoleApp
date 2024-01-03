@@ -12,7 +12,7 @@ namespace GitConsoleApp
         {
             Console.WriteLine("Hello World!!!  ****  extra code");
 
-            var a = 10;
+            var a = 10;  // Great idea!
             var b = 20;
             var c = a + b;
             Console.WriteLine("Final value: " + c);
