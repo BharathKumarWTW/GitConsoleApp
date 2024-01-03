@@ -16,6 +16,9 @@ namespace GitConsoleApp
             var b = 20;
             var c = a + b;
             Console.WriteLine("Final value: " + c);
+
+            Console.WriteLine("Added comments");
+
             Console.ReadLine();
         }
     }
